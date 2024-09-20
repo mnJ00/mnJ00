@@ -9,7 +9,7 @@ def get_email():
 
 
 def get_student_id():
-    student_id = '2024220419 '    # your student ID
+    student_id = '2024220419'    # your student ID
     return student_id
 
 
